@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Results directory
+scan_results/
+domain_result/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Distribution
+*.tar.gz
+*.zip
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.pytest_cache/
