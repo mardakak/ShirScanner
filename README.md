@@ -27,3 +27,6 @@ python scanner.py -f ./akamai-scanned-ip.txt -m full -w 200
 ```
 
 #### Read `--help` for more information
+
+### ScreenShot
+![screenshot](screenshot.png)
