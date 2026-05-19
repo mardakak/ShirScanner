@@ -1,4 +1,7 @@
+# scanner.py
 # No external dependencies required - uses only Python standard library
 # Python 3.6 or higher required
+
+# domain_scanner.py
 requests~=2.32.3
 urllib3~=2.3.0
